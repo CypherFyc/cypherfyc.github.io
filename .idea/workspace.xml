@@ -13,16 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="48" selection-start-line="48" selection-end-line="50" selection-end-column="25" />
+            <state relative-caret-position="625">
+              <caret line="359" column="75" selection-start-line="359" selection-start-column="75" selection-end-line="359" selection-end-column="75" />
               <folding>
-                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -31,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="66">
               <caret line="3" column="4794" selection-start-line="3" selection-start-column="4794" selection-end-line="3" selection-end-column="4794" />
             </state>
           </provider>
@@ -39,14 +39,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="673" column="1" selection-start-line="673" selection-start-column="1" selection-end-line="673" selection-end-column="1" />
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="667" column="45" selection-start-line="667" selection-start-column="45" selection-end-line="667" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -59,8 +63,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -83,6 +87,11 @@
               <item name="cypherfyc.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cypherfyc.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cypherfyc.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cypherfyc.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -97,12 +106,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\panda\Desktop\jl\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\panda\Desktop\jl\img" />
       <recent name="C:\Users\panda\Desktop\jl\img\portfolio" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\i\Documents\GitHub\cypherfyc.github.io\img" />
+      <recent name="C:\Users\panda\Desktop\jl\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -129,12 +139,12 @@
       <updated>1543557068300</updated>
       <workItem from="1543557074212" duration="229000" />
       <workItem from="1543557728583" duration="9191000" />
-      <workItem from="1543578441305" duration="1063000" />
+      <workItem from="1543578441305" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10499000" />
+    <option name="totallyTimeSpent" value="12313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -188,33 +198,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="48" selection-start-line="48" selection-end-line="50" selection-end-column="25" />
-          <folding>
-            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="66">
           <caret line="3" column="4794" selection-start-line="3" selection-start-column="4794" selection-end-line="3" selection-end-column="4794" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/20170422_IMG_1516.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/20180216_A4D881E9-EA55-4828-A51D-F58CF531E3CD-2201-00000246A79A863D_tmp.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="359" column="75" selection-start-line="359" selection-start-column="75" selection-end-line="359" selection-end-column="75" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="673" column="1" selection-start-line="673" selection-start-column="1" selection-end-line="673" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="667" column="45" selection-start-line="667" selection-start-column="45" selection-end-line="667" selection-end-column="45" />
         </state>
       </provider>
     </entry>

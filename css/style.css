@@ -218,7 +218,7 @@ a:active {
   }
 
   #about h1 {
-    /*font-size: 100%;*/
+    /*font-size: 80%;*/
   }
 
 /*==================================================
@@ -665,7 +665,7 @@ a:active {
                    CONTACT
 ======================================================*/
 #contactMain {
-    background-image: url(../img/Beach.jpg);
+    background-image: url(../img/DSC04854.JPG);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
